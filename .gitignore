@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated/cache folders
+.converted_inputs/
+.input_text_cache/
+_ocr_tmp/
+runtime/
+runtime_downloads/
+
+# Local state and generated outputs
+last_run_inputs.json
+*.dwg
+*.dxf
+*.pdf
+*.log
+
+# Local IDE/OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
